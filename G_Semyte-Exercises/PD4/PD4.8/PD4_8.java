@@ -5,16 +5,16 @@ import java.util.Scanner;
 public class PD4_8 {
     public static void main(String[] args) {
 
-        Scanner scannner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
         System.out.println("Sienos ilgis m: ");
-        String ilgis = scannner.nextLine();
+        String ilgis = scanner.nextLine();
 
         System.out.println("Sienos aukštis m: ");
-        String aukstis = scannner.nextLine();
+        String aukstis = scanner.nextLine();
 
         System.out.println("Plytos kaina Eur: ");
-        String kaina = scannner.nextLine();
+        String kaina = scanner.nextLine();
         System.out.println(kaina);
 
         int ilgis1 = Integer.parseInt(ilgis);
