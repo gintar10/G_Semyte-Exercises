@@ -21,9 +21,9 @@ public class PD4_7 {
         System.out.println("Kiek paskaitu yra ketvirtadieni ");
         int k = scanner4.nextInt();
 
-        Scanner scanners5 = new Scanner(System.in);
+        Scanner scanner5 = new Scanner(System.in);
         System.out.println("Kiek paskaitu yra penktadieni ");
-        int pnk = scanners5.nextInt();
+        int pnk = scanner5.nextInt();
 
         double savaite = p + a + t + k + pnk;
         System.out.println("Paskaitu skaicius per savaite -" + " " + savaite);
