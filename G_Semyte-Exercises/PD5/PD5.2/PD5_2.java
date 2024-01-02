@@ -1,4 +1,4 @@
-package PD5_0;
+package PD5;
 
 public class PD5_2 {
     public static void main(String[] args) {
