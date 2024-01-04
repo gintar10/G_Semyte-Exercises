@@ -2,7 +2,9 @@ package PD5;
 
 public class PD5_3 {
     public static void main(String[] args) {
-        int i, primenumber, count;
+        int count;
+        int i;
+        int primenumber;
 
         System.out.println(" Prime Numbers : ");
         for(primenumber = 1; primenumber >= 1; primenumber++) {
