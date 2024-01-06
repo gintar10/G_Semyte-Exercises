@@ -8,7 +8,7 @@ public class PD5_10 {
 
         for (int i = n; i <= m; i++) {
             if (i % 10 != 3 && i % 3 == 0) {
-                System.out.print(i + ", ");
+                System.out.print(i + " ");
                 if (i % 20 == 0)
                     System.out.println();
             }
