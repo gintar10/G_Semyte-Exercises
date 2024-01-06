@@ -7,10 +7,8 @@ public class PD5_10 {
         int m = 40;
 
         for (int i = n; i <= m; i++) {
-            if (i % 10 != 3 && i % 3 == 0) {
+            if (i % n != 3 & i % 3 == 0) {
                 System.out.print(i + " ");
-                if (i % 20 == 0)
-                    System.out.println();
             }
         }
     }
