@@ -1,4 +1,3 @@
-
 package lt.techin.pd6;
 
 public class PD6_7 {
