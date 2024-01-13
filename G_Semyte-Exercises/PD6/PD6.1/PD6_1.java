@@ -1,5 +1,3 @@
-
-
 package lt.techin.pd6;
 
 import java.util.Arrays;
